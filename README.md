@@ -22,7 +22,7 @@
   especializado en Ciberseguridad en Entornos de la Tecnología de la Información.<br><br>
   Actualmente adapto mis prácticas y trabajos de ASIR y del curso de especialización en Ciberseguridad (CETI)
   al formato Markdown para compartirlos públicamente.<br><br>
-  Estoy en proceso de lanzar mi propio dominio, con un sitio web y servidor de correo alojados en una Raspberry Pi 5.<br><br>
+  Estoy en proceso de tener mi propio dominio, con un sitio web y servidor de correo alojados en una Raspberry Pi 5.<br><br>
   Me interesa especialmente la aplicación de la Inteligencia Artificial en el ámbito de la ciberseguridad.
 </p>
 
@@ -39,8 +39,6 @@
 <h3 align="left">📊 Estadísticas</h3>
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Chicotjr5\&show_icons=true\&locale=es\&theme=dark)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Chicotjr5\&layout=compact\&locale=es\&theme=dark)
 
 ---
 
