@@ -1,6 +1,5 @@
 <div align="center">
-  <img height="128" src="![hack](https://github.com/user-attachments/assets/0a578b6f-04d9-47fc-b60a-0fd1457e5126)
-" alt="icono perfil" />
+  <img height="128" src="https://raw.githubusercontent.com/Chicotjr5/Chicotjr5/main/icon.png" alt="icono perfil" />
 </div>
 
 <div align="center">
@@ -32,21 +31,19 @@
 
 ---
 
-<h3 align="left">🛠️ Lenguajes</h3>
+<h3 align="left">🛠️ Tecnologías y herramientas</h3>
 
 ![Lenguajes](https://skillicons.dev/icons?i=html,css,md)
 
-<h3 align="left">🛠️ Tecnologías</h3>
-
-![Tecnologías](https://skillicons.dev/icons?i=wordpress,linux,windows)
+![Herramientas](https://skillicons.dev/icons?i=linux,windows,wordpress)
 
 ---
 
 <h3 align="left">📊 Estadísticas</h3>
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Chicotjr5&show_icons=true&hide_progress=true&locale=es&theme=dark)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Chicotjr5\&show_icons=true\&hide_progress=true\&locale=es\&theme=dark)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Chicotjr5&layout=compact&hide_progress=true&locale=es&theme=dark)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Chicotjr5\&layout=compact\&hide_progress=true\&locale=es\&theme=dark)
 
 ---
 
