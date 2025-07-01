@@ -6,20 +6,25 @@
   <a href="mailto:chicotmat@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
-  <a href="https://t.me/Chicotjr5" target="_blank">
+  <a href="https://t.me/chicotjr5" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
   </a>
 </div>
 
-###
+---
 
 <h1 align="center">👋 ¡Hola! Soy Chicotjr5</h1>
 
-###
+---
 
-<div align="center">
-Estudiante de Ciberseguridad | Apasionado por el análisis forense, la automatización y la investigación de amenazas.
-</div>
+<p align="center">
+  Técnico Superior en Administración de Sistemas Informáticos en Red,<br>
+  especializado en Ciberseguridad en Entornos de la Tecnología de la Información.<br><br>
+  Actualmente adapto mis prácticas y trabajos de ASIR y del curso de especialización en Ciberseguridad (CETI)
+  al formato Markdown para compartirlos públicamente.<br><br>
+  Estoy en proceso de lanzar mi propio dominio, con un sitio web y servidor de correo alojados en una Raspberry Pi 5.<br><br>
+  Me interesa especialmente la aplicación de la Inteligencia Artificial en el ámbito de la ciberseguridad.
+</p>
 
 ---
 
