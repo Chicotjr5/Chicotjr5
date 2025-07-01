@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="128" src="https://raw.githubusercontent.com/Chicotjr5/Chicotjr5/main/images/hack-icon.png" alt="icono perfil" />
+  <img height="128" src="![hack](https://github.com/user-attachments/assets/0a578b6f-04d9-47fc-b60a-0fd1457e5126)
+" alt="icono perfil" />
 </div>
 
 <div align="center">
