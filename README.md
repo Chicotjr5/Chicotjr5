@@ -14,11 +14,10 @@
   </a>
 </div>
 
----
+
 
 <h1 align="center">👋 ¡Hola! Soy Chicotjr5</h1>
 
----
 
 <p align="center">
   Técnico Superior en Administración de Sistemas Informáticos en Red,<br>
