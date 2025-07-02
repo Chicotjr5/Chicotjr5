@@ -32,7 +32,7 @@
 
 <h3 align="left">🛠️ Tecnologías y herramientas</h3>
 
-![Lenguajes](https://skillicons.dev/icons?i=html,css,md) ![Herramientas](https://skillicons.dev/icons?i=linux,windows,wordpress)
+![Lenguajes y herramientas](https://skillicons.dev/icons?i=html,css,md,linux,windows,wordpress)
 
 ---
 
