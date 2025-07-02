@@ -28,13 +28,10 @@
   Me interesa especialmente la aplicación de la Inteligencia Artificial en el ámbito de la ciberseguridad.
 </p>
 
----
 
 <h3 align="left">🛠️ Tecnologías y herramientas</h3>
 
 ![Lenguajes y herramientas](https://skillicons.dev/icons?i=html,css,wordpress,md,linux,windows)
-
----
 
 <h3 align="left">📊 Estadísticas</h3>
 
@@ -42,7 +39,6 @@
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Chicotjr5\&layout=compact\&hide_progress=true\&locale=es\&theme=dark)
 
----
 
 <div align="center">
   📢 Siempre aprendiendo, siempre explorando. Puedes ver mis proyectos y apuntes en mis repositorios públicos.
