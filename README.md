@@ -31,7 +31,7 @@
 
 <h3 align="left">🛠️ Tecnologías y herramientas</h3>
 
-![Lenguajes y herramientas](https://skillicons.dev/icons?i=html,css,wordpress,md,linux,windows)
+![Lenguajes y herramientas](https://skillicons.dev/icons?i=windows,linux,kali,md,raspberry,html,css,wordpress)
 
 <h3 align="left">📊 Estadísticas</h3>
 
