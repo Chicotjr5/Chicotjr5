@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="128" src="https://raw.githubusercontent.com/Chicotjr5/Chicotjr5/main/icon.png" alt="icono perfil" />
+  <img width="128" src="https://raw.githubusercontent.com/Chicotjr5/Chicotjr5/main/icon.png" alt="icono perfil" />
 </div>
 
 <div align="center">
