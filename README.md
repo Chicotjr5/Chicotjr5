@@ -33,12 +33,6 @@
 
 ![Lenguajes y herramientas](https://skillicons.dev/icons?i=windows,linux,kali,raspberrypi,androidstudio,elasticsearch,obsidian,md,html,css,wordpress,mysql,selenium)
 
-<h3 align="left">📊 Estadísticas</h3>
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Chicotjr5\&show_icons=true\&hide_progress=true\&locale=es\&theme=dark)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Chicotjr5\&layout=compact\&hide_progress=true\&locale=es\&theme=dark)
-
 
 <div align="center">
   📢 Siempre aprendiendo, siempre explorando. Puedes ver mis proyectos y apuntes en mis repositorios públicos.
