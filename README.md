@@ -18,8 +18,12 @@ open source y documentar lo que aprendo.
 - Documentación técnica y automatización de tareas.
 
 ## Tecnologías y herramientas
-
-[![Tecnologías y herramientas](https://skillicons.dev/icons?i=linux,ubuntu,bash,windows,docker,nginx,tailscale,apache,virtualbox,perl,mysql,html,css,js,ts,astro,git,github&perline=9)](https://skillicons.dev)
+ 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,windows,arch,kali,selenium,obsidian,md,docker,nginx,perl,mysql,html,css,js,ts,astro,androidstudio,git,github" />
+  </a>
+</p>
 
 ## Estadísticas de GitHub
 
