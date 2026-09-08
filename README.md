@@ -22,9 +22,8 @@
 <p align="center">
   Técnico Superior en Administración de Sistemas Informáticos en Red,<br>
   especializado en Ciberseguridad en Entornos de la Tecnología de la Información.<br><br>
-  Actualmente adapto mis prácticas y trabajos de ASIR y del curso de especialización en Ciberseguridad (CETI)
-  al formato Markdown para compartirlos públicamente.<br><br>
-  Estoy en proceso de lanzar mi propio dominio, con un sitio web y servidor de correo alojados en una Raspberry Pi 5.<br><br>
+  <br><br>
+  <br><br>
   Me interesa especialmente la aplicación de la Inteligencia Artificial en el ámbito de la ciberseguridad.
 </p>
 
