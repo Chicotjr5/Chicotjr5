@@ -24,18 +24,12 @@ open source y documentar lo que aprendo.
 ## Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chicotjr5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estadísticas de GitHub" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chicotjr5&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más utilizados" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chicotjr5&theme=tokyonight" alt="Estadísticas de GitHub" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chicotjr5&theme=tokyonight" alt="Lenguajes más utilizados" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Chicotjr5&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
-</p>
-
-## Actividad reciente
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chicotjr5&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de actividad de GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chicotjr5&theme=tokyonight" alt="Actividad de GitHub" />
 </p>
 
 ## Proyectos destacados
