@@ -46,7 +46,7 @@ open source y documentar lo que aprendo.
 ## Contacto
 
 [![Email](https://img.shields.io/badge/Email-marchm3%40proton.me-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:marchm3@proton.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos%20Chicote%20Matamala-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-chicote-matamala-35166027b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos%20Chicote%20Matamala-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marchm3/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-marchm.es-22c55e?style=for-the-badge&logo=astro&logoColor=white)](https://marchm.es)
 
 Siempre aprendiendo, construyendo y compartiendo conocimiento.
