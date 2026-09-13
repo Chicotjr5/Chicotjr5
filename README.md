@@ -38,15 +38,17 @@ open source y documentar lo que aprendo.
 
 ## Proyectos destacados
 
-- [HOMELAB](https://github.com/Chicotjr5/HOMELAB): servidor doméstico con Docker y Tailscale para servicios autoalojados como Immich, Jellyfin, Nextcloud, Vaultwarden y Syncthing.
 - [ASIR-CETI](https://github.com/Chicotjr5/ASIR-CETI): trabajos, prácticas y proyectos de Administración de Sistemas y Ciberseguridad.
+- [Metadatos_IA](https://github.com/Chicotjr5/Metadatos_IA): artículos y apuntes sobre temas de investigación técnica.
+- [HOMELAB](https://github.com/Chicotjr5/HOMELAB): servidor doméstico con Docker y Tailscale para servicios autoalojados como Immich, Jellyfin, Nextcloud, Vaultwarden y Syncthing.
 - [Retro-Games](https://github.com/Chicotjr5/Retro-Games): colección de juegos retro para navegador con HTML, CSS y JavaScript.
 - [Metadatos_IA](https://github.com/Chicotjr5/Metadatos_IA): artículos y apuntes sobre temas de investigación técnica.
-
+- [BIKEME](https://github.com/Chicotjr5/Bikeme): página para administrar las salidas en bici y mostrar diferentes estadísticas.
+   
 ## Contacto
 
 [![Email](https://img.shields.io/badge/Email-marchm3%40proton.me-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:marchm3@proton.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos%20Chicote%20Matamala-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marchm3/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-marchm.es-22c55e?style=for-the-badge&logo=astro&logoColor=white)](https://marchm.es)
+[![Portfolio](https://img.shields.io/badge/Portfolio-marchm.es-22c55e?style=for-the-badge&logo=astro&logoColor=white)](https://marchm.net)
 
 Siempre aprendiendo, construyendo y compartiendo conocimiento.
